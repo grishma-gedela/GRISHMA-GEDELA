@@ -2,18 +2,22 @@
 
 ## About Me
 
-Hey there! I'm Grishma, a second-year Computer Science & Engineering student at Sir C.R.Reddy Engineering College with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+Hey there! I'm Grishma, a third-year Computer Science & Engineering student at Sir C.R.Reddy Engineering College with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
 **Skills & Interests:**
 
-- Programming Languages: Python (Proficient, my go-to for all challenges), C (intermediary) & exploring other languages
-- Databases: MySQL (Empowering Data Storage with Ease and Efficiency)
+- Programming Languages: Python, C, C++, HTML, CSS, JavaScript(basic knowledge)
+- Frameworks/Libraries: Bootstrap, Django, NumPy, Pandas, Tkinter
+- Databases: MySQL, SQLite
 - Data Structures & Algorithms: Structuring Information for efficiency
-- Version Control: Git (collaboration made easy)
-- Interests: Problem-Solving, Competitive Programming, Open-Source Contributions say in a more better and efficient way
+- Developer Tools: Git/Github, Google Colab, VS Code, Anaconda
+- Academic Coursework: Data Structures, Operating Systems (Windows, Unix/Linux), CN, OOP, DBMS
+- Interests: Problem-Solving, Competitive Programming, Open-Source Contributions, Participating in Hackathons
 
 **Project:**
-- Game Hub: Where Text Becomes Play - A collection of six interactive games which includes Rock Paper Scissors, Guess the Number, General Knowledge Quiz, Hangman, Tic Tac Toe, Anagram Solver! [GameHub Project](https://github.com/GRISHMA-GEDELA/GameHub-Python)
+- Online Food Ordering System: Habibi Foods - Streamlined Online Food Ordering System: Enabling restaurants to manage menus with ease.
+Features include secure login, menu customization and browsing, secure payments via Stripe, feedback, and contact options. Developed with HTML, CSS, Bootstrap, JavaScript (frontend), Python (Django), and SQLite (database), ensuring efficiency and user satisfaction. [Project Link](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys.git)
+- Game Hub: Where Text Becomes Play - A collection of six interactive games which includes Rock Paper Scissors, Guess the Number, General Knowledge Quiz, Hangman, Tic Tac Toe, Anagram Solver! [Project Link](https://github.com/GRISHMA-GEDELA/GameHub-Python)
 
 **Connect with Me:**
 
