@@ -15,14 +15,14 @@ Hey there! I'm Grishma, a third-year Computer Science & Engineering student at S
 - Interests: Problem-Solving, Competitive Programming, Open-Source Contributions, Participating in Hackathons
 
 **Project:**
-- Online Food Ordering System: Habibi Foods - Streamlined Online Food Ordering System: Enabling restaurants to manage menus with ease.
+- Habibi Foods - Streamlined Online Food Ordering System: Enabling restaurants to manage menus with ease.
 Features include secure login, menu customization and browsing, secure payments via Stripe, feedback, and contact options. Developed with HTML, CSS, Bootstrap, JavaScript (frontend), Python (Django), and SQLite (database), ensuring efficiency and user satisfaction. [Project Link](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys.git)
 - Game Hub: Where Text Becomes Play - A collection of six interactive games which includes Rock Paper Scissors, Guess the Number, General Knowledge Quiz, Hangman, Tic Tac Toe, Anagram Solver! [Project Link](https://github.com/GRISHMA-GEDELA/GameHub-Python)
 
 **Connect with Me:**
 
 - Email: grishmagedela@gmail.com
-- LinkedIn: https://www.linkedin.com/in/grishma-gedela-106767297
+- LinkedIn: https://www.linkedin.com/in/grishma-gedela
 - GitHub: https://github.com/GRISHMA-GEDELA
 
 **Feedback Welcome :**
