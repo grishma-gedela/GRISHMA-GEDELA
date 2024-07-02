@@ -14,19 +14,19 @@ Hey there! I'm Grishma, a third-year Computer Science & Engineering student at S
 - Academic Coursework: Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
 - Interests: Problem-Solving, Competitive Programming, Open-Source Contributions, Participating in Hackathons
 
-### Projects:**
+### Projects:
 - **Habibi Foods** - Streamlined Online Food Ordering System: Enabling restaurants to manage menus with ease.
 Features include secure login, menu customization and browsing, secure payments via Stripe, feedback, and contact options. Developed with HTML, CSS, Bootstrap, JavaScript (frontend), Python (Django), and SQLite (database), ensuring efficiency and user satisfaction. [Project Link](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys.git)
 
-- Game Hub: Where Text Becomes Play - A collection of six interactive games which includes Tic Tac Toe, Hangman, Rock Paper Scissors, General Knowledge Quiz, Guess the Number and Anagram Solver. It offers easy navigation, clear instructions, and a cool ASCII art logo. Developed for fun and learning, it combines classic games in one place for easy access and enjoyment. [Project Link](https://github.com/GRISHMA-GEDELA/GameHub-Python)
+- **Game Hub**: Where Text Becomes Play - A collection of six interactive games which includes Tic Tac Toe, Hangman, Rock Paper Scissors, General Knowledge Quiz, Guess the Number and Anagram Solver. It offers easy navigation, clear instructions, and a cool ASCII art logo. Developed for fun and learning, it combines classic games in one place for easy access and enjoyment. [Project Link](https://github.com/GRISHMA-GEDELA/GameHub-Python)
 
-- Snake Game : A classic Snake Game built with Pygame, featuring continuous snake movement, random food items, and edge wrapping. Players control the snake using arrow keys to eat food and grow longer. Developed using Python and Pygame for a fun and nostalgic gaming experience. [Project Link](https://github.com/grishma-gedela/Snake-Game.git)
+- **Snake Game** : A classic Snake Game built with Pygame, featuring continuous snake movement, random food items, and edge wrapping. Players control the snake using arrow keys to eat food and grow longer. Developed using Python and Pygame for a fun and nostalgic gaming experience. [Project Link](https://github.com/grishma-gedela/Snake-Game.git)
 
-**Connect with Me:**
+### Connect with Me:
 
 - Email: grishmagedela@gmail.com
 - LinkedIn: https://www.linkedin.com/in/grishma-gedela
 - GitHub: https://github.com/GRISHMA-GEDELA
 
-**Feedback Welcome :**
+### Feedback Welcome :
 - I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
