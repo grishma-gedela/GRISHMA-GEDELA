@@ -18,7 +18,7 @@ Hey there! I'm Grishma, a third-year Computer Science & Engineering student at S
 - Habibi Foods - Streamlined Online Food Ordering System: Enabling restaurants to manage menus with ease.
 Features include secure login, menu customization and browsing, secure payments via Stripe, feedback, and contact options. Developed with HTML, CSS, Bootstrap, JavaScript (frontend), Python (Django), and SQLite (database), ensuring efficiency and user satisfaction. [Project Link](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys.git)
 
-- Game Hub: Where Text Becomes Play - A collection of six interactive games which includes Tic Tac Toe, Hangman, Rock Paper Scissors, General Knowledge Quiz, Guess the Number,  Anagram Solver! [Project Link](https://github.com/GRISHMA-GEDELA/GameHub-Python)
+- Game Hub: Where Text Becomes Play - A collection of six interactive games which includes Tic Tac Toe, Hangman, Rock Paper Scissors, General Knowledge Quiz, Guess the Number and Anagram Solver. It offers easy navigation, clear instructions, and a cool ASCII art logo. Developed for fun and learning, it combines classic games in one place for easy access and enjoyment. [Project Link](https://github.com/GRISHMA-GEDELA/GameHub-Python)
 
 - Snake Game : A classic Snake Game built with Pygame, featuring continuous snake movement, random food items, and edge wrapping. Players control the snake using arrow keys to eat food and grow longer. Developed using Python and Pygame for a fun and nostalgic gaming experience. [Project Link](https://github.com/grishma-gedela/Snake-Game.git)
 
