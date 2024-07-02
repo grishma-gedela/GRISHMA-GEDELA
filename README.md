@@ -6,7 +6,7 @@ Hey there! I'm Grishma, a third-year Computer Science & Engineering student at S
 
 ### Skills & Interests:
 
-- **Programming Languages**          : Python, C, C++, HTML, CSS, JavaScript(basic knowledge)
+- **Programming Languages**    : Python, C, C++, HTML, CSS, JavaScript(basic knowledge)
 - **Frameworks/Libraries**           : Bootstrap, Django, NumPy, Pandas, Tkinter
 - **Databases**                      : MySQL, SQLite
 - **Data Structures & Algorithms**   : Structuring Information for efficiency
