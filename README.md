@@ -26,7 +26,7 @@ Features include secure login, menu customization and browsing, secure payments 
 
 - Email: grishmagedela@gmail.com
 - LinkedIn: https://www.linkedin.com/in/grishma-gedela
-- GitHub: https://github.com/GRISHMA-GEDELA
+- GitHub: https://github.com/grishma-gedela
 
 ### Feedback Welcome :
 - I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
