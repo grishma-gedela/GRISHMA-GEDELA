@@ -11,7 +11,7 @@ Hey there! I'm Grishma, a third-year Computer Science & Engineering student at S
 - Databases: MySQL, SQLite
 - Data Structures & Algorithms: Structuring Information for efficiency
 - Developer Tools: Git/Github, Google Colab, VS Code, Anaconda
-- Academic Coursework: Data Structures, Operating Systems (Windows, Unix/Linux), CN, OOP, DBMS
+- Academic Coursework: Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
 - Interests: Problem-Solving, Competitive Programming, Open-Source Contributions, Participating in Hackathons
 
 **Projects:**
