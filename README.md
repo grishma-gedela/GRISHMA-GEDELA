@@ -18,8 +18,8 @@ Hey there! I'm Grishma, a third-year Computer Science & Engineering student at S
 - **Habibi Foods - Online Food Ordering System**: Enabling restaurants to manage menus with ease.
 Features include secure login, menu customization and browsing, secure payments via Stripe, feedback, and contact options. Developed with HTML, CSS, Bootstrap, JavaScript (frontend), Python (Django), and SQLite (database), ensuring efficiency and user satisfaction. [Project Link](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys.git)
 
-- **Tech News**: Get the latest tech news in one place with Grishma Tech News! This site curates top stories directly, keeping tech enthusiasts updated without the need to search multiple websites.This site is built using HTML, CSS, and JavaScript for a seamless experience.
-- 
+- **Tech News**: Get the latest tech news in one place with Grishma Tech News! This site curates top stories directly, keeping tech enthusiasts updated without the need to search multiple websites.This site is built using HTML, CSS, and JavaScript for a seamless experience. [Project Link](https://github.com/grishma-gedela/Tech-News.git)
+ 
 - **Game Hub**: Where Text Becomes Play - A collection of six interactive games which includes Tic Tac Toe, Hangman, Rock Paper Scissors, General Knowledge Quiz, Guess the Number and Anagram Solver. It offers easy navigation, clear instructions, and a cool ASCII art logo. Developed for fun and learning, it combines classic games in one place for easy access and enjoyment. [Project Link](https://github.com/GRISHMA-GEDELA/GameHub-Python)
 
 - **Password Generator** : This simple Python script aims to help users enhance their online security by generating strong and secure passwords. By combining letters, symbols, and numbers in a random and shuffled manner, this project provides users with passwords that are difficult to guess or crack. [Project Link](https://github.com/grishma-gedela/Password-Generator.git)
