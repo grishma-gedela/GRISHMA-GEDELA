@@ -20,6 +20,8 @@ Features include secure login, menu customization and browsing, secure payments 
 
 - **Game Hub**: Where Text Becomes Play - A collection of six interactive games which includes Tic Tac Toe, Hangman, Rock Paper Scissors, General Knowledge Quiz, Guess the Number and Anagram Solver. It offers easy navigation, clear instructions, and a cool ASCII art logo. Developed for fun and learning, it combines classic games in one place for easy access and enjoyment. [Project Link](https://github.com/GRISHMA-GEDELA/GameHub-Python)
 
+- **Password Generator** : This simple Python script aims to help users enhance their online security by generating strong and secure passwords. By combining letters, symbols, and numbers in a random and shuffled manner, this project provides users with passwords that are difficult to guess or crack. [Project Link](https://github.com/grishma-gedela/Password-Generator.git)
+
 - **Snake Game** : A classic Snake Game built with Pygame, featuring continuous snake movement, random food items, and edge wrapping. Players control the snake using arrow keys to eat food and grow longer. Developed using Python and Pygame for a fun and nostalgic gaming experience. [Project Link](https://github.com/grishma-gedela/Snake-Game.git)
 
 ### Connect with Me:
