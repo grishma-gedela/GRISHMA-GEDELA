@@ -39,12 +39,6 @@ Hey there! I'm **Grishma**, a **third-year Computer Science & Engineering studen
 - Offers **easy navigation and clear instructions**.
 - 🔗 **[Project Link](https://github.com/GRISHMA-GEDELA/GameHub-Python)**
 
-### 🔑 Password Generator
-- Enhances online security by generating **strong and secure passwords**.
-- Uses a combination of **letters, symbols, and numbers**.
-- Built with **Python**.
-- 🔗 **[Project Link](https://github.com/grishma-gedela/Password-Generator.git)**
-
 ### 🐍 Snake Game
 - A **classic Snake Game** built with **Pygame**.
 - Features **continuous movement, random food items, and edge wrapping**.
