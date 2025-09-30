@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **GRISHMA GEDELA**
 
 ## 📌 About Me
-Hey there! I'm **Grishma**, a **third-year Computer Science & Engineering student** at Sir C.R.Reddy Engineering College with a passion for **coding and crafting innovative solutions**. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+Hey there! I'm **Grishma**, a **final-year Computer Science & Engineering student** at Sir C.R.Reddy Engineering College with a passion for **coding and crafting innovative solutions**. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
 ---
 ## 🚀 Skills & Interests:
