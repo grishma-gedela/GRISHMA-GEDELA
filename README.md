@@ -1,27 +1,72 @@
-# 💫 About Me:
-👋 Hi, I'm GRISHMA GEDELA<br>📌 About Me<br>Hey there! I'm Grishma, a final-year Computer Science & Engineering student at Sir C.R.Reddy Engineering College with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!<br><br>🚀 Skills & Interests:<br>💻 Programming Languages: Python, C, C++, HTML, CSS, JavaScript (basic knowledge)<br>📚 Frameworks/Libraries: Bootstrap, Django, NumPy, Pandas, Tkinter<br>🗄️ Databases: MySQL, SQLite<br>🧩 Data Structures & Algorithms: Structuring information for efficiency<br>🛠️ Developer Tools: Git/GitHub, Google Colab, VS Code, Anaconda<br>🎓 Academic Coursework: Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS<br>🎯 Interests: Problem-Solving, Competitive Programming, Open-Source Contributions, Hackathons<br>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/YourUserID?v=4" width="120" alt="Profile Image"/>
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/grishma-gedela) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@http://www.youtube.com/@GrishmaEducationalRainbow) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:grishmagedela@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Grishma Gedela&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Grishma Gedela&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grishma Gedela&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Grishma Gedela&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Grishma Gedela&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">Hi 👋, I'm Grishma Gedela</h1>
+<h3 align="center">💼 Actively Seeking Software Engineering Roles | Fullstack & AI Enthusiast | DSA Lover</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Grishma Gedela&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌟 About Me
+- 🎓 Final-year Computer Science & Engineering student  
+- 💻 Passionate about Competitive Programming, AI, Fullstack Development  
+- 🏆 Selected for Infosys Pragati Program | Code Gladiators 2024 Semifinalist  
+- 🌱 Currently learning advanced DSA, Fullstack & AI concepts  
+- 📫 Reach me: grishma@example.com  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🏆 Achievements & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&column=5" alt="Trophies"/>
+</p>
+
+---
+
+### 🚀 Skills
+- **Languages:** Python, JavaScript, Java  
+- **Frameworks:** Django, React, Bootstrap  
+- **Tools:** Git, GitHub, VS Code, Docker  
+- **Other:** DSA, Algorithms, AI, Machine Learning  
+
+---
+
+### 💻 Pinned Projects
+<p align="center">
+  <a href="https://github.com/YourGitHubUsername/SelePath">
+    <img src="https://raw.githubusercontent.com/YourGitHubUsername/SelePath/main/demo.gif" width="250" alt="SelePath"/>
+  </a>
+  <a href="https://github.com/YourGitHubUsername/HireMind">
+    <img src="https://raw.githubusercontent.com/YourGitHubUsername/HireMind/main/demo.gif" width="250" alt="HireMind"/>
+  </a>
+  <a href="https://github.com/YourGitHubUsername/OnlineFoodOrdering">
+    <img src="https://raw.githubusercontent.com/YourGitHubUsername/OnlineFoodOrdering/main/demo.gif" width="250" alt="Online Food Ordering"/>
+  </a>
+</p>
+
+---
+
+### 💬 GitHub Status
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square" alt="Profile Views"/>
+  <br>
+  🚀 Open to opportunities | Actively learning DSA & AI | Check out my projects below
+</p>
+
+---
+
+### ✨ Fun Fact
+- I love building projects that solve real-world problems, from AI-powered assistants to interactive games 🎮
+
 
 # 👋 Hi, I'm **GRISHMA GEDELA**
 
